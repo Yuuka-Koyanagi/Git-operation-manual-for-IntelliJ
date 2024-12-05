@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Git-operation-manual-for-IntelliJ/static/css/main.cd6ccb62.css",
+    "main.js": "/Git-operation-manual-for-IntelliJ/static/js/main.84fe42c9.js",
+    "index.html": "/Git-operation-manual-for-IntelliJ/index.html",
+    "main.cd6ccb62.css.map": "/Git-operation-manual-for-IntelliJ/static/css/main.cd6ccb62.css.map",
+    "main.84fe42c9.js.map": "/Git-operation-manual-for-IntelliJ/static/js/main.84fe42c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6ccb62.css",
+    "static/js/main.84fe42c9.js"
+  ]
+}
